@@ -1,0 +1,16 @@
+.register_btn{
+    width:270px;
+}
+.form_center{
+    align-items: center;
+}
+.form_head{
+    margin-right: 200px;
+}
+div > input{
+    line-height:20px;
+}
+.sideimage{
+    margin-left: 150px;
+    margin-top:50px;
+}
